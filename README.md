@@ -1,2 +1,2 @@
 # Dotfiles
-Neovim with Lazy.vim 
+My Neovim config with Lazy.vim 
